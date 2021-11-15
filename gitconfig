@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = lfnancy61@gmail.com
+	name = nancy
